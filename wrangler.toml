@@ -1,0 +1,4 @@
+name = "testing"
+main = "index-clean.js"
+compatibility_flags = [ "nodejs_compat" ]
+compatibility_date = "2023-02-11"
